@@ -1,5 +1,3 @@
-# powerbi-it-incident-dashboard
-Interactive Power BI dashboard for IT Incident Management and SLA Analysis
 # IT Incident Management Dashboard
 
 ## Overview
